@@ -1,1 +1,1 @@
-# assignment4_program_1_integers
+This Python program reads a text file containing 20 integers, and creates two other text files with the extracted odd and even numbers. It reads the integers from the file one by one, checks whether each integer is odd or even, and then adds the number to the appropriate text file. At the end of the program, the two new text files will contain all of the odd and even numbers from the original file.
