@@ -8,4 +8,6 @@ with open ("numbers.txt", "r") as my_file:
     numbers = my_file.read()
     numbers_list = numbers.split()
 #create the even.txt file
+with open ("even.txt", "w") as even_file:
 #create the odd.txt file
+with open ("odd.txt", "w") as odd_file:
